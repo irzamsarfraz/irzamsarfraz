@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irzamsarfraz, currently a Bioinformatics Analyst at Boston University.
 - 👀 I’m interested in developing computational tools and approaches for analysis of genomic data.
-- 🌱 I’m currently learning advanced R including R6 (OOP) based shiny modules.
+- 🌱 I’m currently learning advanced R including R6 (OOP) based shiny structure.
 - 📫 Reach me at irzam9095@gmail.com or isarfraz@bu.edu.
 
 <!---
