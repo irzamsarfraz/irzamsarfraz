@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irzamsarfraz!
+- 👋 Hi, I’m @irzamsarfraz, a PhD Bioinformatics student in Joshua Campbell's Lab at Boston University School of Medicine. 
 - 👀 I’m interested in developing computational tools and approaches for analysis of genomic data.
 - 📫 Reach me at isarfraz@bu.edu.
 
